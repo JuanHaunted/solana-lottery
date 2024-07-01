@@ -14,8 +14,6 @@ require("@solana/wallet-adapter-react-ui/styles.css"); //Sol styling
 export default function Home() {
 
   // First we will define the endpoint for RPC Node
-  //const endpoint = "https://tiniest-fabled-fog.solana-devnet.quiknode.pro/3f7f4963b907228fc72e71c2ce2464f97692a79f/";
-
   // Endpoint in localnet
   const endpoint = "http://127.0.0.1:8899/";
 
